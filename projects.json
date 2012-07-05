@@ -1,0 +1,13 @@
+{
+	"projects" : [
+		{ "name" : "koolaj", "desc" : "no-frills collage maker.", "image" : "res/koolaj.jpg", "link" : "http://darklight721.github.com/koolaj" },
+		{ "name" : "kropp", "desc" : "fast and easy picture cropper.", "image" : "res/kropp.jpg", "link" : "http://darklight721.github.com/kropp" },
+		{ "name" : "Stripes Factory", "desc" : "Stripes background generator.", "image" : "res/stripesfactory.jpg", "link" : "http://darklight721.github.com/StripesFactory" },
+		{ "name" : "Colour Clock", "desc" : "html/css/js version of thecolourclock.co.uk.", "image" : "res/colourclock.jpg", "link" : "http://darklight721.github.com/ColourClock" },
+		{ "name" : "Stopwatch", "desc" : "stopwatch and countdown timer.", "image" : "res/stopwatch.jpg", "link" : "http://darklight721.github.com/Stopwatch" }
+	],
+	"props" : {
+		"width" : "800",
+		"height" : "600"
+	}
+}
