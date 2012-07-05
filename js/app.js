@@ -10,6 +10,9 @@
 		// set size of main panel
 		mainPanel.width(_projects.props.width);
 		mainPanel.height(_projects.props.height);
+
+		// reposition tab label
+		$("nav").width(mainPanel.outerWidth());
 		
 		// set size of image panel
 		imagePanel.width(_projects.props.width*_projects.projects.length);
