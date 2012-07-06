@@ -9,5 +9,10 @@
 	"props" : {
 		"width" : "800",
 		"height" : "600"
-	}
+	},
+	"bio" : [
+		{ "field" : "skills", "values" : [ "C, C++", "HTML, CSS, Javascript" ] },
+		{ "field" : "education", "values" : [ "Bachelor of Science in Computer Science", "University of San Carlos, Cebu City" ] },
+		{ "field" : "contacts", "values" : [ "email: <a href='mailto:roy.evan.sia@gmail.com'>roy.evan.sia@gmail.com</a>", "twitter: <a href='http://twitter.com/pr00t'>pr00t</a>" ] }
+	]
 }
